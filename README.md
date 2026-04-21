@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Jennifer!
 
-<!--
-**jennigaraujo/jennigaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 I’m a student focused on technology and software development.
+* 📚 Currently learning programming and building projects.
+* 🚀 Interested in front-end and back-end development.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML, CSS, JavaScript
+* Git & GitHub
+* React (learning)
+* Node.js (learning)
+
+## 📌 Projects
+
+Here you can find some of my projects:
+
+* Portfolio (React)
+* Library API (Node.js)
+
+## 📫 Contact
+
+📧 jennifergoncalvesaraujo@gmail.com
